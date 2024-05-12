@@ -1,5 +1,5 @@
 # 💫 About Me:
-My ability to navigate Dhaka traffic translates perfectly into navigating complex codebases
+My ability to navigate Dhaka traffic translates perfectly into navigating complex codebases jokes apart I am an experienced SQA Engineer ensuring software reliability with a passion for software testing and quality assurance. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohsinahmed.ohi.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohsinahmedohi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MohsinAhmedOhi) 
@@ -18,20 +18,10 @@ My ability to navigate Dhaka traffic translates perfectly into navigating comple
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohsinAhmedohi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinAhmedohi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-![Snake animation](https://github.com/mohsinAhmedohi/mohsinAhmedohi/blob/output/github-contribution-grid-snake.svg)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohsinAhmedohi&icon=0&color=0)](https://visitcount.itsvg.in)
