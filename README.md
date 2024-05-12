@@ -1,5 +1,5 @@
 # 💫 About Me:
-My ability to navigate Dhaka traffic translates perfectly into navigating complex codebases jokes apart I am an experienced SQA Engineer ensuring software reliability with a passion for software testing and quality assurance. 
+I am an experienced SQA Engineer ensuring software reliability with a passion for software testing and quality assurance. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohsinahmed.ohi.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohsinahmedohi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MohsinAhmedOhi) 
